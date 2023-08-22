@@ -46,3 +46,8 @@
   flex: 1;
   padding: 2vh 33vw;
 }
+
+.appmain form {
+  display: flex;
+  flex-direction: column;
+}
